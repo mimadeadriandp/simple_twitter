@@ -2,7 +2,7 @@
 FLUTTER_ROOT=C:\Users\mimad\flutter
 FLUTTER_APPLICATION_PATH=D:\Post grad\Glints\bsi_attendance_mobile
 COCOAPODS_PARALLEL_CODE_SIGN=true
-FLUTTER_TARGET=lib\main.dart
+FLUTTER_TARGET=lib\app\main.dart
 FLUTTER_BUILD_DIR=build
 SYMROOT=${SOURCE_ROOT}/../build\ios
 FLUTTER_BUILD_NAME=0.0.1
