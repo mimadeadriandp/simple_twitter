@@ -1,0 +1,3 @@
+class LoadingEvent {}
+
+class DismissLoadingEvent {}

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BGTaskSchedulerPermittedIdentifiers</key>
+	<array>
+		<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	</array>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Persona</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(FLUTTER_BUILD_NAME)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Play using while you are hiking</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Calendar Use</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Can I use the camera please?</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Contact Use</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>This app want to know user location in the background</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>This app want to know user location to decide whether user is in or out office</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app want to know user location to decide whether user is in or out office</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Can I use the mic please?</string>
+	<key>NSMotionUsageDescription</key>
+	<string>This app needs to be able to access your motion use</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Explain why your app uses photo library</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Recognize speech</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>location</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>
