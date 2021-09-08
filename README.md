@@ -21,4 +21,4 @@ HOME FUNCTIONALITY
 1. Tweet app by clicking + and type your tweet, and send it.
 2. Edit tweet by clicking pencil button.
 3. Delete tweet by clicking trash can button. 
-4. Sign out by clicking red sign out button on top-right.
+4. Log out by clicking red log out button on top-right.
